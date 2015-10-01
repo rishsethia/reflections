@@ -1,2 +1,6 @@
 What happens when you initialize a repository? Why do you need it?
 A hidden git folder is created to keep tracks of commit and all.
+In an initialised git repository there is no commit whatsoever and there is nothing in the staging area also.
+
+How can you use the staging area to make sure you have one commit per logical change?
+You can use git diff to compare staging area to the working directory files and git diff —staged to view difference between staging area and the commits . So you can check whether you have made one logical change or not.
