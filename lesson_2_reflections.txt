@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need it?
+A hidden git folder is created to keep tracks of commit and all.
