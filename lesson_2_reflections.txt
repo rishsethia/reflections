@@ -4,3 +4,8 @@ In an initialised git repository there is no commit whatsoever and there is noth
 
 How can you use the staging area to make sure you have one commit per logical change?
 You can use git diff to compare staging area to the working directory files and git diff —staged to view difference between staging area and the commits . So you can check whether you have made one logical change or not.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+
+The branches help in making a different version or going on with the experimental feature of the project splitting the project into 2 different variants.
