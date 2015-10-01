@@ -9,3 +9,6 @@ What are some situations when branches would be helpful in keeping your history 
 
 
 The branches help in making a different version or going on with the experimental feature of the project splitting the project into 2 different variants.
+
+How do the diagrams help you visualize the branch structure?
+Diagrams help to understand us the concept of reachability and the parent structure of the log and also helps us to visualize the branch structure.
